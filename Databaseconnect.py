@@ -18,6 +18,6 @@ def dbconnect():
 	connection = mysql.connector.connect(
 		host="localhost",
 		user="root",
-		password="Opmedkop30",
+		password="YOUR CODE HERE",
 		database="Ladestander_database")
 	return connection
